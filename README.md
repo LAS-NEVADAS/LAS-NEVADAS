@@ -1,6 +1,6 @@
 <div align="center">
     
-![](https://i.postimg.cc/1Xr8WdxN/dice-again.png)
+![](https://i.postimg.cc/P53Cdd02/sharkk.png)
 
 <p align="center" width="100%">
     <img width="33%" src="image">
